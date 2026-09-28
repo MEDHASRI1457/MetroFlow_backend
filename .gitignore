@@ -1,0 +1,6 @@
+﻿.venv/
+__pycache__/
+*.pyc
+metroflow.db
+metroflow_auth.db
+.env
